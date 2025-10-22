@@ -1,0 +1,9 @@
+name: noTotems
+version: '1.0.0'
+main: de.scholle.noTotems.NoTotems
+api-version: '1.18'
+prefix: NoTotems
+load: STARTUP
+authors: [ Mobilestars ]
+description: Disables Totems of Undying for players
+website: https://modrinth.com/project/nototems-plugin
